@@ -1,10 +1,24 @@
-### Hi there Janis here 👋
+# 👋 Hallo, ich bin Janis!
 
+Ich bin ein junior Full Stack Developer mit einer großen Leidenschaft für Webtechnologien und nachhaltige IT-Lösungen. Während einer langen Europareise habe ich meine Begeisterung für das Programmieren entdeckt und seitdem nicht mehr losgelassen.
 
-- 🔭 I’m currently working on my coding skills.
-- 🌱 I’m currently learning TypeScript.
-- 🤔 I’m looking for help with Java
-- ⚡ Fun fact:  Computer “bug” was inspired by a real insect‍.  
- In 1947, Grace Hopper, an admiral in the US Navy, was working with Mark II computer when it suddenly had an issue with its performance. To their surprise, they saw a moth stuck in its relay leading to Grace writing it to her journal as “the first case of bug being found”
+---
 
+## 🚀 Über mich
+
+- 🔁 Quereinsteiger mit Background im Projektmanagment und Gesundheit/Fitness
+- 🎓 Absolvent von zwei intensiven Coding Bootcamps bei neuefische
+- 💡 Stärken: Lernbereitschaft, analytisches Denken, Teamgeist
+- 🌱 Interessiert an: Webentwicklung, Clean Code, Nachhaltigkeit in der IT, Open Source
+- 🌍 Ich möchte mit Technologie etwas Positives bewirken – für Menschen & Umwelt.
+
+---
+
+## 💻 Technologien & Tools
+
+```bash
+Sprachen:     JavaScript, TypeScript, Java
+Frameworks:   React, Node.js, Spring Boot, Next.js
+Tools:        Git, Docker, MongoDB, REST APIs, Postman
+Sonstiges:    VS Code, GitHub, CI/CD-Grundlagen
 
